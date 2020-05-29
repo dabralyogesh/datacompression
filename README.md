@@ -1,2 +1,2 @@
-# datacompression
+# DataCompression
 A data compression project using Huffman Coding.
